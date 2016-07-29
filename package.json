@@ -12,7 +12,10 @@
     "type": "git",
     "url": ""
   },
-  "author": "Daniel Garcia-Carrillo",
+  "author": {
+    "name": "Daniel Garcia-Carrillo",
+    "email": "garciacarrillo.daniel@yahoo.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": ""
